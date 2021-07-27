@@ -1,2 +1,2 @@
-# MasterThesis-CAISA
-This is a project during my master program in Germany in collaboration with Conversational AI and Social Analytics (CAISA) Lab.
+# Conversational Opinionated Question Answering
+Perhaps not surprisingly, opinion QA systems generate a wide variety of subjective and possibly contradictory answers. Just as opinions diverge among different users, answers to such questions may also be subjective, opinionated, and varied. Answering such questions automatically is quite different from typical QA tasks, where it is assumed that a single “correct” answer is available. In this pilot study we explore user preferences in navigating a conversational recommendation system prototype.
